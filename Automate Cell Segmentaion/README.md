@@ -5,7 +5,7 @@ A deep learning approach to automate nucleus detection using biomedical images f
 
 ## 📌 Overview
 
-This project addresses a critical medical imaging challenge—automated detection of cell nuclei—posed by the [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018). Accurate nucleus segmentation plays a key role in accelerating biomedical research by enabling high-throughput cellular analysis. Since nuclei carry genetic material, their detection helps in understanding disease progression, evaluating treatment responses, and expediting drug development.
+This project addresses a critical medical imaging challenge automated detection of cell nuclei posed by the [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018). Accurate nucleus segmentation plays a key role in accelerating biomedical research by enabling high-throughput cellular analysis. Since nuclei carry genetic material, their detection helps in understanding disease progression, evaluating treatment responses, and expediting drug development.
 
 ---
 
